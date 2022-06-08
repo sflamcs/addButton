@@ -1,1 +1,3 @@
 i am testing git gui
+now i have githut
+try to push
